@@ -1,4 +1,4 @@
-| [home page](https://chenanchien.github.io/kevin-chien-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://chenanchien.github.io/kevin-chien-portfolio/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Kevin Chien's Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go (Ongoing).  You should probably hire me.
@@ -20,18 +20,18 @@ In my free time, I enjoy games and anime. Working out is important to me too, si
 
 # Portfolio
 
-## Assignment: [Data Viz Examples](dataviz-examples)
-- [OECD General Government Debt-to-GDP Ratio, 1995–2019 (Tableau)](dataviz-examples): a highlight table comparing government debt as a percentage of GDP across 34 OECD countries.
+## Assignment: [Data Viz Examples](dataviz-examples.md)
+- [OECD General Government Debt-to-GDP Ratio, 1995–2019 (Tableau)](dataviz-examples.md): a highlight table comparing government debt as a percentage of GDP across 34 OECD countries.
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 Coming soon.
 
 ## Final project
 TBD
 
-- [Part I](final-project-part-one)
-- [Part II](final-project-part-two)
-- [Part III](final-project-part-three)
+- [Part I](final-project-part-one.md)
+- [Part II](final-project-part-two.md)
+- [Part III](final-project-part-three.md)
 
 ## References
 _List any references you used here._
