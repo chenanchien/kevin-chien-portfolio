@@ -21,7 +21,7 @@ In my free time, I enjoy games and anime. Working out is important to me too, si
 # Portfolio
 
 ## Assignment: [Data Viz Examples](dataviz-examples)
-Coming soon.
+- [OECD General Government Debt-to-GDP Ratio, 1995–2019 (Tableau)](dataviz-examples): a highlight table comparing government debt as a percentage of GDP across 34 OECD countries.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 Coming soon.
