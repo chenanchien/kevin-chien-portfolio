@@ -21,6 +21,7 @@ In my free time, I enjoy games and anime. Working out is important to me too, si
 # Portfolio
 
 ## Assignment: [Data Viz Examples](dataviz-examples.md)
+- [Ireland Cut Its Debt After 2008. Greece and the U.S. Never Did (Tableau)](dataviz-examples.md): a dumbbell chart comparing government debt (% of GDP) for the U.S. and nine European countries in 2007, at their post-2008 peak, and in 2019.
 - [OECD General Government Debt-to-GDP Ratio, 1995–2019 (Tableau)](dataviz-examples.md): a highlight table comparing government debt as a percentage of GDP across 34 OECD countries.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
